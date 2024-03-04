@@ -1,0 +1,15 @@
+
+.p{
+color: rgb(173, 33, 33);
+margin-left: 20px;
+text-align: center;
+}
+.p1{
+color: rgb(255, 0, 0);
+margin-left: 20px;
+text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
